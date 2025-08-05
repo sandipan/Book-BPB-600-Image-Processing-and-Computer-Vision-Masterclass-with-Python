@@ -1,5 +1,7 @@
 # Learning Image Processing and Computer Vision through problem solving with python
 
+![image](cover.jpg)
+
 ## Book Chapters
 1.	Image Restoration and Inverse Problems in Image Processing
 2.	More Image Restoration and Image Inpainting
