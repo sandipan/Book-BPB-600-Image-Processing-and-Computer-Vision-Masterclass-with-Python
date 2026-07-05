@@ -38,6 +38,20 @@
 
 </details>
 
+<details open>
+  <summary><h2>📚 Other Books by the Author</summary>
 
-Git repository for the book **Image Processing Mastercalss with Python**: https://github.com/sandipan/Book-Image-Processing-Masterclass-with-Python
+If you find this repository useful, you may also be interested in the author's previous books on image processing and computer vision:
 
+- **Image Processing Mastercalss with Python**
+  GitHub: https://github.com/sandipan/Book-Image-Processing-Masterclass-with-Python
+  
+- **Hands-On Image Processing with Python**  
+  GitHub: https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python
+
+- **Python Image Processing Cookbook**  
+  GitHub: https://github.com/PacktPublishing/Python-Image-Processing-Cookbook
+
+These repositories contain complete source code, examples, datasets, and implementations accompanying the respective books. :contentReference[oaicite:0]{index=0}
+
+</details>
