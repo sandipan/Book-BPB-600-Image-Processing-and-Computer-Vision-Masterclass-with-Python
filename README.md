@@ -44,7 +44,7 @@
 If you find this repository useful, you may also be interested in the author's previous books on image processing and computer vision:
 
 - **Hands-On Image Processing and Computer Vision with Python, Second Edition** 
-  https://github.com/PacktPublishing/Hands-On-Image-Processing-and-Computer-Vision-with-Python-Second-Edition
+  GitHub: https://github.com/PacktPublishing/Hands-On-Image-Processing-and-Computer-Vision-with-Python-Second-Edition
 
 - **Image Processing Mastercalss with Python**
   GitHub: https://github.com/sandipan/Book-Image-Processing-Masterclass-with-Python
