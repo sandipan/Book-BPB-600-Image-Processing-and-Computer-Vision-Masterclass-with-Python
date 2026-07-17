@@ -24,9 +24,9 @@
 ![](Chapter11/images/img2vid.gif) 
 
 <p float="left">
-<img src="Chapter06/images/vid1.gif" width="300"/> 
-<img src="Chapter06/images/vid2.gif" width="250"/> 
-<img src="Chapter06/images/vid_stitched.gif" width="550"/> 
+<img src="Chapter06/images/vid1.gif" width="400"/> 
+<img src="Chapter06/images/vid2.gif" width="350"/> 
+<img src="Chapter06/images/vid_stitched.gif" width="750"/> 
 </p>
 
 <p float="left">
