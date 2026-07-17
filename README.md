@@ -38,7 +38,7 @@
 ![](Chapter02/images/inpaint_dcgan.gif)
 ![](Chapter08/images/custom_yolo.gif)
 ![](Chapter11/images/dalle2.gif) 
-![](Chapter11/images/ptcloud.gif) 
+![](Chapter06/images/ped_HOG.gif) 
 
 <p float="left">
 <img src="Chapter04/images/students.gif" width="400"/> 
@@ -47,8 +47,8 @@
 
 
 <p float="left">
-<img src="Chapter06/images/ped_HOG.gif" width="575"/> 
-<img src="Chapter11/images/composition.gif" width="250"/> 
+<img src="Chapter11/images/ptcloud.gif" width="450"/> 
+<img src="Chapter11/images/composition.gif" width="375"/> 
 </p>
 
 ![](Chapter09/images/ct_iradon.gif)
