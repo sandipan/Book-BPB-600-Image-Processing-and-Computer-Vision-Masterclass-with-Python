@@ -47,9 +47,9 @@
 </p>
 
 ![](Chapter06/images/ped_HOG.gif) 
-![](Chapter09/images/mr_ct_t1.gif)
 ![](Chapter09/images/ct_iradon.gif)
 ![](Chapter10/images/covid.gif) 
+![](Chapter11/images/ptcloud.gif) 
 
 </details>
 
