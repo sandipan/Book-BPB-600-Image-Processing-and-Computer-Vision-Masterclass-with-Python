@@ -22,8 +22,18 @@
   <summary><h2>Animations from the Book</summary>
 
 ![](Chapter11/images/img2vid.gif) 
-![](Chapter06/images/vid1.gif) ![](Chapter06/images/vid2.gif) ![](Chapter06/images/vid_stitched.gif) 
-![](Chapter09/images/brain_ct.gif) ![](Chapter09/images/chest_ct.gif)
+
+<p float="left">
+<img src="Chapter06/images/vid1.gif" width="300"/> 
+<img src="Chapter06/images/vid2.gif" width="250"/> 
+<img src="Chapter06/images/vid_stitched.gif" width="550"/> 
+</p>
+
+<p float="left">
+<img src="Chapter09/images/brain_ct.gif" width="400"/> 
+<img src="Chapter09/images/chest_ct.gif" width="400"/> 
+</p>
+
 ![](Chapter09/images/mr_ct_t1.gif)
 ![](Chapter11/images/ar.gif) 
 ![](Chapter01/images/tv_cham.gif) 
@@ -31,10 +41,17 @@
 ![](Chapter02/images/inpaint_dcgan.gif)
 ![](Chapter11/images/composition.gif) 
 ![](Chapter11/images/dalle2.gif) 
-![](Chapter04/images/students.gif) ![](Chapter04/images/bg_sub_out.gif)
+![](Chapter11/images/ptcloud.gif) 
+
+<p float="left">
+<img src="Chapter04/images/students.gif" width="400"/> 
+<img src="Chapter04/images/bg_sub_out.gif" width="400"/> 
+</p>
+
 ![](Chapter06/images/ped_HOG.gif) 
 ![](Chapter09/images/mr_ct_t1.gif)
 ![](Chapter09/images/ct_iradon.gif)
+![](Chapter10/images/covid.gif) 
 
 </details>
 
