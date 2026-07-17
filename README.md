@@ -36,7 +36,6 @@
 ![](Chapter01/images/tv_cham.gif) 
 ![](Chapter01/images/bayes_LBFGSB.gif) 
 ![](Chapter02/images/inpaint_dcgan.gif)
-![](Chapter11/images/composition.gif) 
 ![](Chapter08/images/custom_yolo.gif)
 ![](Chapter11/images/dalle2.gif) 
 ![](Chapter11/images/ptcloud.gif) 
@@ -46,10 +45,14 @@
 <img src="Chapter04/images/bg_sub_out.gif" width="400"/> 
 </p>
 
-![](Chapter06/images/ped_HOG.gif) 
+
+<p float="left">
+<img src="Chapter06/images/ped_HOG.gif" width="575"/> 
+<img src="Chapter11/images/composition.gif" width="250"/> 
+</p>
+
 ![](Chapter09/images/ct_iradon.gif)
 ![](Chapter10/images/covid.gif) 
-![](Chapter11/images/ptcloud.gif) 
 
 </details>
 
