@@ -22,12 +22,7 @@
   <summary><h2>Animations from the Book</summary>
 
 ![](Chapter11/images/img2vid.gif) 
-
-<p float="left">
-<img src="Chapter06/images/vid1.gif" width="400"/> 
-<img src="Chapter06/images/vid2.gif" width="350"/> 
-<img src="Chapter06/images/vid_stitched.gif" width="750"/> 
-</p>
+![](Chapter06/images/vid_stitching.gif)
 
 <p float="left">
 <img src="Chapter09/images/brain_ct.gif" width="400"/> 
@@ -35,11 +30,14 @@
 </p>
 
 ![](Chapter09/images/mr_ct_t1.gif)
+![](Chapter09/images/pneumonia.gif)
+![](Chapter09/images/prostate.gif)
 ![](Chapter11/images/ar.gif) 
 ![](Chapter01/images/tv_cham.gif) 
 ![](Chapter01/images/bayes_LBFGSB.gif) 
 ![](Chapter02/images/inpaint_dcgan.gif)
 ![](Chapter11/images/composition.gif) 
+![](Chapter08/images/custom_yolo.gif)
 ![](Chapter11/images/dalle2.gif) 
 ![](Chapter11/images/ptcloud.gif) 
 
